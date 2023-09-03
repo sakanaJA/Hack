@@ -1,0 +1,26 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Courier New', monospace;
+    background-color: #000;
+    color: #0f0;
+}
+
+.terminal {
+    padding: 20px;
+    height: 100%;
+}
+
+.command-line {
+    white-space: pre-wrap;
+    margin-top: 10px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px 0;
+    background: #222;
+    border: 1px solid #0f0;
+    color: #0f0;
+    font-family: 'Courier New', monospace;
+}
